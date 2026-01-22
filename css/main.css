@@ -107,12 +107,6 @@ select option {
 }
 
 @media (max-width:801px) {
-
-
-
-
-
-
     .menu {
         gap: 40px;
     }
